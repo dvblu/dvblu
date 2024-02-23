@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @dvblu
+#  Hi, I’m @dvblu
 
 Welcome to my GitHub profile! Here's a bit about me:
 
